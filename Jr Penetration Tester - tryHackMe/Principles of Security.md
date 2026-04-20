@@ -87,6 +87,16 @@ An effective threat model includes:
 >A breach of security is known as an *incident*.
 >Actions taken to resolve and remediate the threat are known as **Incident Response (IR)**
 
+>An incident is responded to by a **C**omputer **S**ecurity **I**ncident **R**esponse **T**eam (**CSIRT**) which is prearranged group of employees with technical knowledge about the systems and/or current incident.
 
 
+6 Phases of incident response:
 
+| **Action**      | **Description**                                                                                                                             |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Preparation     | Do we have the resources and plans in place to deal with the security incident?                                                             |
+| Identification  | Has the threat and the threat actor been correctly identified in order for us to respond to?                                                |
+| Containment     | Can the threat/security incident be contained to prevent other systems or users from being impacted?                                        |
+| Eradication     | Remove the active threat.                                                                                                                   |
+| Recovery        | Perform a full review of the impacted systems to return to business as usual operations.                                                    |
+| Lessons Learned | What can be learnt from the incident? I.e. if it was due to a phishing email, employees should be trained better to detect phishing emails. |

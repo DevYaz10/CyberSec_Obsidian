@@ -51,3 +51,16 @@ The levels of access given to individuals are determined on two primary factors:
 >[!quote] Definition
 > Threat modelling is the process of reviewing, improving, and testing the security protocols in place in an organisation's information technology infrastructure and services.
 
+
+Threat Modelling Process:
+1. Identification
+2. Preparation
+3. Mitigations
+4. Review
+![[Pasted image 20260420230619.png|212]]
+
+An effective threat model includes:
+- Threat intelligence
+- Asset identification
+- Mitigation capabilities
+- Risk assessment

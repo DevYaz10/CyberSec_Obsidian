@@ -28,19 +28,26 @@ The levels of access given to individuals are determined on two primary factors:
 >any system or piece of technology storing information is called an information system
 
 
-## The Bell-La Padula Model
+### The Bell-LaPadula Model
 
 - **used to achieve confidentiality**, and prevent leakage of sensitive information
+- Used in military or anywhere where the information are secret or should be hidden
 - "No Write Down, No Read Up" which means you can't read information from a higher security level or write, save, or transfer information of a lower-level system (or individual) 
 - ![[Pasted image 20260420222514.png|269]]
 
 
-## Biba Model 
+### Biba Model 
 
 - arguably the equivalent of the Bell-La Padula model but **for the integrity of the CIA triad**.
 - It prevents "low-integrity" users from corrupting "high-integrity" data.
+- Used in software development or finance or anywhere where information are critical to modify but disclosed or public 
 - "No Read Down, No Write Up" here is the opposite where u can read higher-level data but you can't modify it or transfer data to a higher level, you can't read lower-level data thus you can't read it ig
 - ![[Pasted image 20260420223654.png|269]]
 
 
+
+## Threat Modelling & Incident Response
+
+>[!quote] Definition
+> Threat modelling is the process of reviewing, improving, and testing the security protocols in place in an organisation's information technology infrastructure and services.
 

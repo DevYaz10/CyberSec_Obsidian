@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3fc7990394fe14",
+        "id": "fb2c452638cf1cef",
         "type": "tabs",
         "children": [
           {
-            "id": "06b408657ac44b28",
+            "id": "f6b8fe6365ea6cd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06b408657ac44b28",
+  "active": "f6b8fe6365ea6cd6",
   "lastOpenFiles": [
+    "Jr Penetration Tester - tryHackMe/Pasted image 20260420195748.png",
+    "Jr Penetration Tester - tryHackMe/Principles of Security.md",
     "Jr Penetration Tester - tryHackMe/Pentesting Fundamentals.md",
     "README.md",
     "CyberSec_Github/README.md",

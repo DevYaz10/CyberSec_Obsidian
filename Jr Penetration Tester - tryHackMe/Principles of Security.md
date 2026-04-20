@@ -31,11 +31,16 @@ The levels of access given to individuals are determined on two primary factors:
 ## The Bell-La Padula Model
 
 - **used to achieve confidentiality**, and prevent leakage of sensitive information
-- "No Write Down, No Read Up" which means you can't rad information from a higher security level or write, save, or transfer information of a lower-level system (or individual) 
+- "No Write Down, No Read Up" which means you can't read information from a higher security level or write, save, or transfer information of a lower-level system (or individual) 
 - ![[Pasted image 20260420222514.png|269]]
 
 
 ## Biba Model 
 
 - arguably the equivalent of the Bell-La Padula model but **for the integrity of the CIA triad**.
-- 
+- It prevents "low-integrity" users from corrupting "high-integrity" data.
+- "No Read Down, No Write Up" here is the opposite where u can read higher-level data but you can't modify it or transfer data to a higher level, you can't read lower-level data thus you can't read it ig
+- ![[Pasted image 20260420223654.png|269]]
+
+
+

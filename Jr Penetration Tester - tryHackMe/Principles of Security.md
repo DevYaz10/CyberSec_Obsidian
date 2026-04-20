@@ -32,7 +32,7 @@ The levels of access given to individuals are determined on two primary factors:
 
 - **used to achieve confidentiality**, and prevent leakage of sensitive information
 - "No Write Down, No Read Up" which means you can't rad information from a higher security level or write, save, or transfer information of a lower-level system (or individual) 
-- ![[Pasted image 20260420195748.png|313]]
+- ![[Pasted image 20260420222514.png|269]]
 
 
 ## Biba Model 

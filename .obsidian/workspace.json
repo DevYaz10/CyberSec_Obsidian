@@ -11,10 +11,14 @@
             "id": "06b408657ac44b28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Jr Penetration Tester - tryHackMe/Principles of Security.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Principles of Security"
             }
           }
         ]
@@ -182,6 +186,8 @@
   },
   "active": "06b408657ac44b28",
   "lastOpenFiles": [
+    "Jr Penetration Tester - tryHackMe/Pentesting Fundamentals.md",
+    "README.md",
     "CyberSec_Github/README.md",
     "CyberSec_Github",
     "CyberSec_Github/Jr Penetration Tester - tryHackMe/Principles of Security.md",

@@ -27,3 +27,8 @@ The levels of access given to individuals are determined on two primary factors:
 >[!Info]
 >any system or piece of technology storing information is called an information system
 
+
+## The Bell-La Padula Model
+
+- **used to achieve confidentiality.**
+- "No Write Down, No Read Up" which means you can't rad information from a higher security level or write, save, or transfer information of a lower-level system (or indivisual)

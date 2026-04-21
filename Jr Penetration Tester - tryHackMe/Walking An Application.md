@@ -13,5 +13,11 @@ this is the "directory listing "
 ### Inspector
 
 >[!quote] Definition
-Element inspector assists us with this by providing us with a live representation of what is currently on the website (The source code)
+Element inspector assists us with this by providing us with a live representation of what is currently on the website (The Element Tab).
+
+
+### Debugger
+
+>[!quote] Definition
+It let's you see all the file presented in the front end of the page  (The source code).
 

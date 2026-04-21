@@ -196,7 +196,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "490ea5a020ed0d9f",

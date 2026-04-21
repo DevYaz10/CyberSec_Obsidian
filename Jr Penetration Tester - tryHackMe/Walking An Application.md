@@ -21,3 +21,16 @@ Element inspector assists us with this by providing us with a live representatio
 >[!quote] Definition
 It let's you see all the file presented in the front end of the page  (The source code).
 
+>We can utilise another feature of debugger called **breakpoints**. These are points in the code that we can force the browser to stop processing the JavaScript and pause the current execution.
+
+![[Pasted image 20260421140112.png|634]]
+By clicking on the line you force the browser to skip this part of the code
+
+![[Pasted image 20260421140242.png]]
+
+
+### Network
+
+>[!quote] Definition
+The network tab on the developer tools can be used to keep track of every external request a webpage makes.
+

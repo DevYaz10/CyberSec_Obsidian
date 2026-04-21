@@ -8,3 +8,10 @@ this is the "directory listing "
 >A web server feature that displays the contents of a directory when no index file is present, potentially exposing sensitive files.
 
 
+## Developer Tools
+
+### Inspector
+
+>[!quote] Definition
+Element inspector assists us with this by providing us with a live representation of what is currently on the website (The source code)
+

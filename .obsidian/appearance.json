@@ -1,6 +1,7 @@
 {
   "accentColor": "#f5cc00",
   "enabledCssSnippets": [
-    "indline-code"
+    "indline-code",
+    "custome_CSS"
   ]
 }

@@ -1,0 +1,13 @@
+/* 1. This handles the colors for inline code */
+body {
+    --code-background: rgba(255, 255, 255, 0.15); 
+    --code-normal: #e5c07b; 
+}
+
+
+
+/* 3. OPTIONAL: This makes standard bold text (using **double asterisks**) even thicker */
+strong, 
+.cm-strong {
+    font-weight: 900; 
+}

@@ -1,0 +1,10 @@
+body {
+    /* Makes the background box lighter and more visible */
+    --code-background: rgba(255, 255, 255, 0.15); 
+    
+    /* Changes the text color (e.g., to a bright yellow/gold) */
+    --code-normal: #f8ce3d; 
+
+    /* Makes the text bolder */
+    font-weight: bold;
+}

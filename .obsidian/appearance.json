@@ -1,3 +1,6 @@
 {
-  "accentColor": "#f5cc00"
+  "accentColor": "#f5cc00",
+  "enabledCssSnippets": [
+    "indline-code"
+  ]
 }

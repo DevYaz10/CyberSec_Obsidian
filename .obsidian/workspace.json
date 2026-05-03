@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,7 +252,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "560f6302e56e7551",
+  "active": "b40eb9ddfaf52481",
   "lastOpenFiles": [
     "Jr Penetration Tester - tryHackMe/9. Intro to SSRF.md",
     "Jr Penetration Tester - tryHackMe/10. Intro to Cross-site Scripting.md",

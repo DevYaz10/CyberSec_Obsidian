@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics.md",
+                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Common Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentesting Basics"
+              "title": "Common Terms"
             }
           }
         ],
@@ -366,10 +366,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b40eb9ddfaf52481",
+  "active": "695ad1f22d0b960c",
   "lastOpenFiles": [
-    "Penetration Tester - Job Role Path - HTB/Folder Structure/IPT/evidence/data.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics.md",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Common Terms.md",
+    "Penetration Tester - Job Role Path - HTB/Folder Structure/IPT/evidence/data.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT/evidence/data.md",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT/evidence/credentials.md",

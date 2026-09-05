@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Common Terms.md",
+                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Basic Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Terms"
+              "title": "Basic Tools"
             }
           }
         ],
@@ -368,8 +368,9 @@
   },
   "active": "695ad1f22d0b960c",
   "lastOpenFiles": [
-    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics.md",
-    "Penetration Tester - Job Role Path - HTB/Getting Started/Common Terms.md",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Common Terms.md",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Basic Tools.md",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/IPT/evidence/data.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT/evidence/data.md",
@@ -413,7 +414,6 @@
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260502174148.png",
     "Jr Penetration Tester - tryHackMe/8. File Inclusion.md",
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260501211128.png",
-    "Jr Penetration Tester - tryHackMe/7. IDOR.md",
     "Untitled.canvas"
   ]
 }

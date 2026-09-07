@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "da09308373cfd9fd",
@@ -201,6 +200,8 @@
   "active": "628c0af7de1f6b87",
   "lastOpenFiles": [
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Basic Tools.md",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Common Terms.md",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Service Scanning.md",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/IPT/evidence/data.md",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/IPT/evidence/credentials.md",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT/tools.md",
@@ -213,9 +214,7 @@
     "Jr Penetration Tester - tryHackMe/8. File Inclusion.md",
     "Jr Penetration Tester - tryHackMe/7. IDOR.md",
     "Jr Penetration Tester - tryHackMe/6. Authentication Bypass.md",
-    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Service Scanning.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics",
-    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Common Terms.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT/evidence/data.md",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT/evidence/credentials.md",

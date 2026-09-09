@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Public  Exploits.md",
+                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Service Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public  Exploits"
+              "title": "Service Scanning"
             }
           }
         ],
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "da09308373cfd9fd",
@@ -229,13 +228,13 @@
   },
   "active": "3f2172480c1d4708",
   "lastOpenFiles": [
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Public  Exploits.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909212225.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909211626.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Service Scanning.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Web Enumeration.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Common Terms.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Basic Tools.md",
-    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Public  Exploits.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909005615.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909005234.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909005143.png",
@@ -274,7 +273,6 @@
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260503235712.png",
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260503235114.png",
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260502194128.png",
-    "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260502183404.png",
     "Untitled.canvas"
   ]
 }

@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "da09308373cfd9fd",
@@ -211,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,6 +229,7 @@
   },
   "active": "3f2172480c1d4708",
   "lastOpenFiles": [
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909212225.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909211626.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Service Scanning.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Web Enumeration.md",
@@ -272,7 +275,6 @@
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260503235114.png",
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260502194128.png",
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260502183404.png",
-    "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260502181756.png",
     "Untitled.canvas"
   ]
 }

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Types of Shells.md",
+                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Shells"
+              "title": "Privilege Escalation"
             }
           }
         ],
@@ -242,8 +242,9 @@
   },
   "active": "df73a5b47a4c7f57",
   "lastOpenFiles": [
-    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Web Enumeration.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Types of Shells.md",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Privilege Escalation.md",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Web Enumeration.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Service Scanning.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Public  Exploits.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Common Terms.md",
@@ -281,7 +282,6 @@
     "Penetration Tester - Job Role Path - HTB/Folder Structure/IPT/evidence",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/IPT",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT - Copy/evidence",
-    "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT - Copy/tools.md",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT - Copy",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT/evidence",
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260504154510.png",

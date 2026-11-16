@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "indline-code",
     "custome_CSS"
-  ]
+  ],
+  "showRibbon": true
 }

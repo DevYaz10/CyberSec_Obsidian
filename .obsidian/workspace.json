@@ -67,10 +67,14 @@
             "id": "cc90893eb0abd400",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Transferring Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transferring Files"
             }
           }
         ],

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Transferring Files.md",
+                "file": "Tools/whatweb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transferring Files"
+              "title": "whatweb"
             }
           }
         ],
@@ -256,9 +256,12 @@
   },
   "active": "cc90893eb0abd400",
   "lastOpenFiles": [
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Basic Tools.md",
+    "Tools/whatweb.md",
+    "Tools",
+    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Transferring Files.md",
     "Jr Penetration Tester - tryHackMe/8. File Inclusion.md",
     "Jr Penetration Tester - tryHackMe/Attachments/Pasted image 20260420223654.png",
-    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Transferring Files.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Public  Exploits.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Privilege Escalation.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Service Scanning.md",
@@ -268,7 +271,6 @@
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20261119120737.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20261110163832.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20261109220601.png",
-    "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Basic Tools.md",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909212225.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909211626.png",
     "Penetration Tester - Job Role Path - HTB/Getting Started/Pentesting Basics/Attachments/Pasted image 20260909005615.png",
@@ -300,7 +302,6 @@
     "Penetration Tester - Job Role Path - HTB/Folder Structure/IPT",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT - Copy/evidence",
     "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT - Copy",
-    "Penetration Tester - Job Role Path - HTB/Folder Structure/EPT/evidence",
     "Untitled.canvas"
   ]
 }
